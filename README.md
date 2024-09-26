@@ -17,7 +17,8 @@ Pour entraîner le modèle sur Google Colab :
    
 5.  runez le code
 
-#Test Local
+# Test Local
+
 Après avoir entraîné votre modèle sur Colab, vous pouvez tester le modèle localement sur vos propres images ou vidéos. Voici comment procéder :
 
 1. Téléchargez le meilleur modèle à partir de Colab vers votre machine locale. Le meilleur modèle est généralement situé dans 'runs/detect/train/weights/best.pt'.
@@ -31,7 +32,7 @@ pip install roboflow
 3. Runez le code fireDetection et changez le path de votre vidéo
 
 
-#Captures
+# Captures
 
 
 
