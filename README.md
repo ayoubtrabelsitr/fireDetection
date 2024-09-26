@@ -9,4 +9,4 @@ Pour entraîner le modèle sur Google Colab :
 
 1. Ouvrez un nouveau notebook Colab et sélectionnez un environnement d'exécution avec GPU. Vous pouvez le faire en allant dans Runtime > Change runtime type et en sélectionnant GPU.
 
-2.Importez le fichier model.ipynb
+2. Importez le fichier model.ipynb
