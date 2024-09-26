@@ -34,5 +34,11 @@ pip install roboflow
 
 # Captures
 
+**Caméra**
 
+<img src="test.png" width="400"/>
 
+**Vidéo**
+<video width="400" controls>
+  <source src="outputfire.mp4" type="video/mp4">
+</video>
